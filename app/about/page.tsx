@@ -151,6 +151,7 @@ export default function AboutPage() {
             <div className="footer-links">
               <a href="mailto:hello@northstarstudio.design">hello@northstarstudio.design</a>
               <a href="tel:+916309377662">+91 6309377662</a>
+
               <span>New York • Remote worldwide</span>
             </div>
           </div>

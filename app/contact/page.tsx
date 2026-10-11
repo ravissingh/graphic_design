@@ -52,7 +52,7 @@ export default function ContactPage() {
                   <div className="icon-badge">☎</div>
                   <div>
                     <strong>Phone</strong>
-                    <div className="meta"><a href="tel:+15550144">+1 (555) 014-44</a></div>
+                    <div className="meta"><a href="tel:+916309377662">+91 6309377662</a></div>
                   </div>
                 </div>
 
@@ -138,7 +138,7 @@ export default function ContactPage() {
             <strong style={{ display: 'block', marginBottom: '0.7rem', color: 'var(--text)' }}>Contact</strong>
             <div className="footer-links">
               <a href="mailto:hello@northstarstudio.design">hello@northstarstudio.design</a>
-              <a href="tel:+15550144">+1 (555) 014-44</a>
+              <a href="tel:+916309377662">+91 6309377662</a>
               <span>New York • Remote worldwide</span>
             </div>
           </div>
